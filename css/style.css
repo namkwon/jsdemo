@@ -5,6 +5,7 @@
 
 .trailer iframe {
 	padding: 10px;
+	max-width: 560px;
 }
 table td {
 	padding: 10px;
